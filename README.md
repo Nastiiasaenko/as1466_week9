@@ -17,7 +17,7 @@ path = r"https://raw.githubusercontent.com/nogibjj/as1466_week9/main/life%20expe
 df = pd.read_csv(path)
 ```
 2. Perform data analysis and visualization. The code in the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nastiiasaenko/as1466_week9/blob/main/as1466_week9.ipynb) provides codes for
-   * correlation matrix
+   * correlation matrix:
    * scatter plot segmented by region
    * boxplot segmeneted by region/year
   
