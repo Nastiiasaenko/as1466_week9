@@ -18,6 +18,7 @@ df = pd.read_csv(path)
 ```
 2. Perform data analysis and visualization. The code in the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nastiiasaenko/as1466_week9/blob/main/as1466_week9.ipynb) provides codes for
    * correlation matrix:
+ ![jj](https://github.com/Nastiiasaenko/as1466_week9/blob/84a81425c87d4c28ee5eb113cd7ed54ccd745518/corr%20(2).png)
    * scatter plot segmented by region
    * boxplot segmeneted by region/year
   
